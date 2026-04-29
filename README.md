@@ -25,5 +25,4 @@ Apasionado por la tecnología, el desarrollo de software y las soluciones de har
 ---
 📫 **¿Cómo contactarme?**
 - **Correo:** davidgetial2005@gmail.com
-- **LinkedIn:** [Tu link de LinkedIn aquí]
 - **Ubicación:** Pasto, Nariño, Colombia.
